@@ -22,6 +22,8 @@ The downloaded files can also run a local copy of the website by opening the fil
 
 A video walkthrough of the website can also be seen here: https://youtu.be/knO7YSAWnoQ
 
+More information about the project's considerations and the design process followed can be found here: https://malaksadek.wordpress.com/2020/09/04/the-mosques-of-egypt/
+
 # Contact
 
 * email: mfzs1@st-andrews.ac.uk
