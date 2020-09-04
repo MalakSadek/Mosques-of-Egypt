@@ -1,0 +1,238 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:0px;
+  width:1024px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1041px;
+  height:511px;
+}
+#u0 {
+  border-width:0px;
+  position:absolute;
+  left:-8px;
+  top:20px;
+  width:1041px;
+  height:511px;
+  display:flex;
+}
+#u0 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u0_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u1_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:676px;
+  height:94px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Debby', 'Debby Script', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:70px;
+  color:#4B2C80;
+  text-align:center;
+}
+#u1 {
+  border-width:0px;
+  position:absolute;
+  left:158px;
+  top:84px;
+  width:676px;
+  height:94px;
+  display:flex;
+  font-family:'Debby', 'Debby Script', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:70px;
+  color:#4B2C80;
+  text-align:center;
+}
+#u1 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:676px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PTSans-Narrow', 'PT Sans Narrow', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  color:#000000;
+  text-align:center;
+}
+#u2 {
+  border-width:0px;
+  position:absolute;
+  left:161px;
+  top:178px;
+  width:676px;
+  height:26px;
+  display:flex;
+  font-family:'PTSans-Narrow', 'PT Sans Narrow', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  color:#000000;
+  text-align:center;
+}
+#u2 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u3_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:155px;
+  height:49px;
+  background:inherit;
+  background-color:rgba(75, 44, 128, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(0, 0, 0, 1);
+  border-radius:10px;
+  -moz-box-shadow:3px 3px 1px rgba(0, 0, 0, 0.349019607843137);
+  -webkit-box-shadow:3px 3px 1px rgba(0, 0, 0, 0.349019607843137);
+  box-shadow:3px 3px 1px rgba(0, 0, 0, 0.349019607843137);
+  font-family:'Debby', 'Debby Script', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:26px;
+  letter-spacing:1.1px;
+  color:#FFFFFF;
+}
+#u3 {
+  border-width:0px;
+  position:absolute;
+  left:435px;
+  top:236px;
+  width:155px;
+  height:49px;
+  display:flex;
+  font-family:'Debby', 'Debby Script', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:26px;
+  letter-spacing:1.1px;
+  color:#FFFFFF;
+}
+#u3 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u3_div.mouseOver {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:155px;
+  height:49px;
+  background:inherit;
+  background-color:rgba(36, 3, 91, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(0, 0, 0, 1);
+  border-radius:10px;
+  -moz-box-shadow:3px 3px 1px rgba(0, 0, 0, 0.349019607843137);
+  -webkit-box-shadow:3px 3px 1px rgba(0, 0, 0, 0.349019607843137);
+  box-shadow:3px 3px 1px rgba(0, 0, 0, 0.349019607843137);
+  font-family:'Debby', 'Debby Script', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:26px;
+  letter-spacing:1.1px;
+  color:#FFFFFF;
+}
+#u3.mouseOver {
+}
+#u3_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u4 {
+  border-width:0px;
+  position:absolute;
+  left:962px;
+  top:9px;
+  width:50px;
+  height:47px;
+}
+#u4_input {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:50px;
+  height:47px;
+  overflow:hidden;
+}
