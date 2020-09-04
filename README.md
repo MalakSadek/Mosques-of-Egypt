@@ -17,7 +17,9 @@ The various pages of the website can be seen on the sitemap below. The pages are
 ## Usage
 
 The functioning website can be accessed using this link: https://pdygk0.axshare.com
+
 The downloaded files can also run a local copy of the website by opening the file `opening_screen.html` using any browser.
+
 A video walkthrough of the website can also be seen here: https://youtu.be/knO7YSAWnoQ
 
 # Contact
